@@ -1,6 +1,4 @@
 ﻿# video-website-backend
-# Products Backend API
-
 This project is a backend API for managing products, built with Node.js, Express.js, MongoDB, and Cloudinary. The API supports functionalities such as creating, reading, updating, and deleting products, as well as handling product images.
 
 ## Table of Contents
